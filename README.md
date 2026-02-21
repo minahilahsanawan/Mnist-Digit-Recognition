@@ -97,5 +97,5 @@ pip install numpy tensorflow
 
 Minahil Ahsan Awan   
 Email: minahilahsaanawan@gmail.com  
-
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
+
