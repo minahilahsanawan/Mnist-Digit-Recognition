@@ -1,6 +1,5 @@
 # MNIST Handwritten Digit Classifier (CNN)
 
-## Project Summary
 This repository contains a Convolutional Neural Network (CNN) that learns to recognize handwritten digits (0 to 9) using the MNIST dataset. The workflow includes data preprocessing, model training, and evaluation using test accuracy and a confusion matrix.
 
 ---
@@ -94,8 +93,9 @@ pip install numpy tensorflow
 ```
 ---
 
-## Authors
+## Author
 
 Minahil Ahsan Awan   
 Email: minahilahsaanawan@gmail.com  
+
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
